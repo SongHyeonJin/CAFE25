@@ -12,3 +12,5 @@
 
 [링크](https://songhyeonjin.github.io/CAFE25/)
 
+# 2022년 3월 17일 오전
++ favicon 추가
